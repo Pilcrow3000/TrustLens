@@ -98,3 +98,7 @@ logs/
 uploads/
 temp/
 cache/
+
+# TrustLens Backend specific
+models/
+data/
